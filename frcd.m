@@ -1,3 +1,9 @@
+// frcd
+// 
+//
+// IDECodeSnippetIdentifier: 94A6B954-4A85-4850-BD89-EF0669CF42F9
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "NSFetchedResultsControllerDelegate"
 summary: "Placeholders for the fetched results controller delegate methods"

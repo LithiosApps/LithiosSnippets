@@ -1,3 +1,9 @@
+// pds
+// 
+//
+// IDECodeSnippetIdentifier: 10DA3AFB-935F-4A37-A7D0-58A0DB5BA1A1
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "UIPickerViewDataSource"
 summary: "Placeholders for required UIPickerView datasource methods"

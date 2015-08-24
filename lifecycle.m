@@ -1,3 +1,9 @@
+// lifecycle
+// 
+//
+// IDECodeSnippetIdentifier: 7776C021-597E-465B-A848-DE65F4A3E1D2
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "UIViewController Lifecycle"
 summary: "Placeholders for all of the view controller lifecycle methods"

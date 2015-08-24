@@ -1,3 +1,9 @@
+// nscoding
+// 
+//
+// IDECodeSnippetIdentifier: FFA25F65-42A4-4814-867A-D683573E37AA
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "NSCoding Protocol Methods"
 summary: "Placeholders for NSCoding protocol methods"
