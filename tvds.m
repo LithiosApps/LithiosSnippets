@@ -1,10 +1,3 @@
----
-title: "UITableViewDataSource"
-summary: "Placeholders for required UITableViewDataSource delegate methods"
-platform: iOS
-completion-scope: Class Implementation
----
-
 #pragma mark - UITableViewDataSource
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
